@@ -1,1 +1,6 @@
-# MQ-Bench-201
+# MQ-Benc201
+
+## introduction
+The rapid advancement of artificial intelligence of things (AIoT) technology has significantly increased the demand for edge models deployed on edge devices. However, the computational, storage, and energy limitations of these devices necessitate the efficient optimization and compression of models. Mixed-precision quantization (MQ) has emerged as an effective technique for reducing resource consumption while preserving model performance. Despite its potential, accurately and efficiently evaluating the performance loss due to quantization during the deployment phase remains a significant challenge. Traditional evaluation methods are often time-consuming and computationally expensive. To address this, we first construct an enhanced mixed-precision quantization model dataset, MQ-Bench-201, and then design an MQ evaluator using graph neural network (GNN) techniques. This evaluator is capable of accurately predicting performance loss across different quantization configurations of neural architectures. Experimental results demonstrate that the proposed evaluator outperforms existing architecture encoding-based predictors, both on the MQ-Bench-201 dataset and in terms of generalization to other datasets.
+
+The detailed tutorials of MQ-Bench-201 will be released soon. Be free to contact us and thanks a lot! 
