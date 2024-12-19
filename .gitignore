@@ -167,5 +167,3 @@ results/*
 *.pt
 Local_backup/
 logs/
-data/
-dataset/
